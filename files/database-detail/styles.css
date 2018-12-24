@@ -1,0 +1,162 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1200px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u7962 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u7963_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1200px;
+  height:580px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:20px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u7963 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1200px;
+  height:580px;
+}
+#u7964 {
+  position:absolute;
+  left:2px;
+  top:282px;
+  width:1196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7965_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:36px;
+  height:33px;
+}
+#u7965 {
+  position:absolute;
+  left:22px;
+  top:4px;
+  width:36px;
+  height:33px;
+}
+#u7966 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:32px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7967_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  height:17px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  text-align:center;
+}
+#u7967 {
+  position:absolute;
+  left:526px;
+  top:20px;
+  width:131px;
+  height:17px;
+  text-align:center;
+}
+#u7968 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  white-space:nowrap;
+}
+#u7969_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:201px;
+  height:2px;
+}
+#u7969 {
+  position:absolute;
+  left:492px;
+  top:47px;
+  width:200px;
+  height:1px;
+}
+#u7970 {
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7971 {
+  position:absolute;
+  left:120px;
+  top:80px;
+  width:956px;
+  height:396px;
+}
+#u7971_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:956px;
+  height:396px;
+}
+#u7972 {
+  position:absolute;
+  left:530px;
+  top:515px;
+  width:140px;
+  height:25px;
+}
+#u7972_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:25px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#333333;
+  text-align:center;
+}
